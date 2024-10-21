@@ -1,8 +1,9 @@
 # DEPI DevOps Project 
 
 **Distributed System Architecture with CI/CD Pipeline on AWS**
-![alt text](<WhatsApp Image 2024-10-20 at 17.33.43_40e01df4.jpg>)
-![alt text](image.png)
+![WhatsApp Image 2024-10-20 at 17 33 43_07357200](https://github.com/user-attachments/assets/34ff6321-0624-400a-9c18-f51ae2453606)
+![image](https://github.com/user-attachments/assets/4aeed154-ce32-477f-9dc8-51de0dd1b760)
+
 
 ## Overview
 
