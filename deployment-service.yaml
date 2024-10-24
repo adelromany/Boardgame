@@ -13,11 +13,11 @@ spec:
         app: boardgame
     spec:
       containers:
-        - name: boardgame
-          image: adelromany/boardgame:latest # Image that will be used to containers in the cluster
-          imagePullPolicy: Always
-          ports:
-            - containerPort: 8080 # The port that the container is running on in the cluster
+      - name: boardgame
+      image: adelromany/boardgame:latest # Image that will be used to containers in the cluster
+      imagePullPolicy: Always
+      ports:
+        - containerPort: 8080 # The port that the container is running on in the cluster
 
 
 ---

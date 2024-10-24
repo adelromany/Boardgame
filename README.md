@@ -1,8 +1,8 @@
 # DEPI DevOps project
 
 **Distributed System Architecture with CI/CD Pipeline on AWS**
-![alt text](<WhatsApp Image 2024-10-20 at 17.33.43_40e01df4.jpg>)
-![alt text](image.png)
+![alt text](images/pipeline.png)
+![alt text](<images/System Architecture.jpg>)
 ## Overview
 
 This project demonstrates a hybrid architecture for deploying a distributed system using AWS, Kubernetes, and a CI/CD pipeline with Jenkins. It integrates various tools for application management, monitoring, and continuous delivery, ensuring scalability, reliability, and efficiency.
